@@ -12573,10 +12573,10 @@ sql-formatter@^2.3.3:
   dependencies:
     lodash "^4.16.0"
 
-sql-query-identifier@^1.1.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/sql-query-identifier/-/sql-query-identifier-1.2.0.tgz#a17f62fa1783c24e176d42099fb47634f2569263"
-  integrity sha512-adbLG/Se4YJ5fKANbD3TzYj+C0oi6L3FbfoSPqpTRZyywQRfH8hQZgQDBdFB24IixYnG8em3UeDmj+jiZ9hh8A==
+sql-query-identifier@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/sql-query-identifier/-/sql-query-identifier-2.1.0.tgz#dbf0f34b11bc14c8ade44de13350271047eb566e"
+  integrity sha512-DcC+inWZvN6fiTyxv+9uhFoTRC9C8LTeApVl1N7JJTTCzto6yhuaI423DzPPqDk10z4naL2mF9g/eNhUfxuMpA==
 
 sqlite3@^5.0.0:
   version "5.0.0"
@@ -13017,9 +13017,10 @@ table@^5.2.3:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
-tabulator-tables@rathboma/tabulator#max-initial-width-with-dist:
+tabulator-tables@^4.9.3:
   version "4.9.3"
-  resolved "https://codeload.github.com/rathboma/tabulator/tar.gz/6a5decb6023e1e0406b24aa7654452d698cdd56d"
+  resolved "https://registry.yarnpkg.com/tabulator-tables/-/tabulator-tables-4.9.3.tgz#89ea8f9bffc11ba9a789369b5165ac82da26f4f0"
+  integrity sha512-iwwQqAEGGxlgrBpcmJJvMJrfjGLcCXOB3AOb/DGkXqBy1YKoYA36hIl7qXGp6Jo8dSkzFAlDT6pKLZgyhs9OnQ==
 
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
